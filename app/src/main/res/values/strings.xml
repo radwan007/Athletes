@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Athletes</string>
+    <string name="connectionerror">Please check the connection network</string>
+    <string name="athletes_details">Athletes Details</string>
 </resources>
